@@ -11,7 +11,7 @@ AI powered glasses aimed to assist blind or partially blind people in their day 
 * Integrate the object detection model into the glasses' software pipeline.
 * Test the object detection functionality in various real-world scenarios and refine as necessary.
 
-3. Virtual Assistant:
+2. Virtual Assistant:
 
 * Research and select a suitable Natural Language Processing (NLP) model (e.g., GPT, BERT).
 * Fine-tune the chosen NLP model on a corpus of conversational data and task-specific commands.
